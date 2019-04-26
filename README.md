@@ -24,6 +24,8 @@ const i18nProvider = locale => messages[locale];
   ...
 </Admin>
 ```
+## What's new
+ - Added permissions.no_access key
 
 ## License
 
